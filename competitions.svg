@@ -1,0 +1,101 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="980" height="300" viewBox="0 0 980 300" role="img" aria-label="Competition results for 2025 and 2026">
+  <title>Competitions</title>
+  <defs>
+    <linearGradient id="hat" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#3A7BD5" stop-opacity="0.15"/>
+      <stop offset="0.5" stop-color="#3A7BD5"/>
+      <stop offset="1" stop-color="#1F3A5F" stop-opacity="0.6"/>
+    </linearGradient>
+    <linearGradient id="zemin" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0F1C2E"/>
+      <stop offset="1" stop-color="#16294A"/>
+    </linearGradient>
+    <linearGradient id="vurgu" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#3A7BD5"/>
+      <stop offset="1" stop-color="#1F3A5F"/>
+    </linearGradient>
+  </defs>
+
+  <style>
+    text { font-family: 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif; }
+    .zemin { fill: url(#zemin); }
+    .baslik { font-size: 12px; font-weight: 600; letter-spacing: 3px; fill: #7FB0FF; }
+    .yil { font-size: 30px; font-weight: 700; fill: #ffffff; }
+    .yilnot { font-size: 12px; fill: #8FA3BF; }
+    .kart { fill: #3A7BD5; fill-opacity: 0.12; stroke: #5B8FE0; stroke-opacity: 0.4; stroke-width: 1; }
+    .ad { font-size: 14px; font-weight: 600; fill: #E6EDF3; }
+    .sonuc { font-size: 12.5px; fill: #9FB6D3; }
+    .vurgukart { fill: url(#vurgu); stroke: #7FB0FF; stroke-opacity: 0.7; stroke-width: 1; }
+    .vad { font-size: 14px; font-weight: 700; fill: #ffffff; }
+    .vsonuc { font-size: 12.5px; font-weight: 600; fill: #dbe7ff; }
+    .cerceve { fill: none; stroke: #3A7BD5; stroke-opacity: 0.35; }
+    .hatt { stroke: url(#hat); stroke-width: 2; stroke-linecap: round; fill: none; stroke-dasharray: 940; stroke-dashoffset: 940; animation: ciz 1.6s ease-out 0.1s forwards; }
+    .g { animation: yuksel 0.7s ease-out both; }
+    .nabiz { animation: nabiz 2.4s ease-in-out 1.8s infinite; transform-box: fill-box; transform-origin: center; }
+
+    @keyframes ciz { to { stroke-dashoffset: 0; } }
+    @keyframes yuksel { from { opacity: 0; transform: translateY(10px); } to { opacity: 1; transform: translateY(0); } }
+    @keyframes nabiz { 0%, 100% { opacity: 0.0; transform: scale(1); } 50% { opacity: 0.55; transform: scale(1.04); } }
+
+  </style>
+
+  <rect class="zemin" x="0" y="0" width="980" height="300" rx="14"/>
+  <rect class="cerceve" x="0.5" y="0.5" width="979" height="299" rx="14"/>
+
+  <text class="baslik" x="30" y="34">COMPETITIONS</text>
+
+  <!-- yıllar -->
+  <text class="yil g" x="30" y="78" style="animation-delay:0.1s">2025</text>
+  <text class="yilnot g" x="108" y="77" style="animation-delay:0.2s">2 projects</text>
+  <text class="yil g" x="360" y="78" style="animation-delay:0.3s">2026</text>
+  <text class="yilnot g" x="438" y="77" style="animation-delay:0.4s">6 projects</text>
+
+  <path class="hatt" d="M 30 92 H 950"/>
+
+  <!-- 2025 -->
+  <g class="g" style="animation-delay:0.5s">
+    <rect class="kart" x="30" y="106" width="290" height="52" rx="10"/>
+    <text class="ad" x="46" y="127">Teknofest · AIDEP</text>
+    <text class="sonuc" x="46" y="145">Semi-finalist · Team Captain</text>
+  </g>
+  <g class="g" style="animation-delay:0.65s">
+    <rect class="kart" x="30" y="170" width="290" height="52" rx="10"/>
+    <text class="ad" x="46" y="191">Boost the Idea · AIDEP</text>
+    <text class="sonuc" x="46" y="209">6th out of 20 projects</text>
+  </g>
+
+  <!-- 2026: sol sütun -->
+  <g class="g" style="animation-delay:0.8s">
+    <rect class="nabiz" x="360" y="106" width="290" height="52" rx="10" fill="#3A7BD5"/>
+    <rect class="vurgukart" x="360" y="106" width="290" height="52" rx="10"/>
+    <text class="vad" x="376" y="127">AI-Deathon · StajPusula</text>
+    <text class="vsonuc" x="376" y="145">3rd place · Team Captain</text>
+  </g>
+  <g class="g" style="animation-delay:0.95s">
+    <rect class="kart" x="360" y="170" width="290" height="52" rx="10"/>
+    <text class="ad" x="376" y="191">Teknofest · Fighter UAV</text>
+    <text class="sonuc" x="376" y="209">Finalist · 2nd of 16 teams</text>
+  </g>
+  <g class="g" style="animation-delay:1.1s">
+    <rect class="kart" x="360" y="234" width="290" height="52" rx="10"/>
+    <text class="ad" x="376" y="255">TEKNO-SEL · AIDEP</text>
+    <text class="sonuc" x="376" y="273">Special Category Finalist</text>
+  </g>
+
+  <!-- 2026: sağ sütun -->
+  <g class="g" style="animation-delay:1.25s">
+    <rect class="kart" x="660" y="106" width="290" height="52" rx="10"/>
+    <text class="ad" x="676" y="127">Teknofest · DCO</text>
+    <text class="sonuc" x="676" y="145">Semi-finalist · Team Captain</text>
+  </g>
+  <g class="g" style="animation-delay:1.4s">
+    <rect class="kart" x="660" y="170" width="290" height="52" rx="10"/>
+    <text class="ad" x="676" y="191">Teknofest · Linehaul Optimisation</text>
+    <text class="sonuc" x="676" y="209">Semi-finalist · Team Captain</text>
+  </g>
+  <g class="g" style="animation-delay:1.55s">
+    <rect class="kart" x="660" y="234" width="290" height="52" rx="10"/>
+    <text class="ad" x="676" y="255">Teknofest · 5G Smart Road Safety</text>
+    <text class="sonuc" x="676" y="273">Semi-finalist</text>
+  </g>
+</svg>
