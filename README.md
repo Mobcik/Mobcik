@@ -1,73 +1,122 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F3A5F,100:3A7BD5&height=200&section=header&text=Süleyman%20Yıldız&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack,%20Bilgisayarlı%20Görü%20ve%20LLM&descSize=16&descAlignY=58&descColor=dbe7ff" alt="Süleyman Yıldız"/>
+</div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F3A5F,100:3A7BD5&height=200&section=header&text=S%C3%BCleyman%20Y%C4%B1ld%C4%B1z&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Yapay%20Zek%C3%A2%20%26%20Bilgisayarl%C4%B1%20G%C3%B6r%C3%BC&descSize=18&descAlignY=60" alt="Süleyman Yıldız" width="100%" />
-
-<a href="https://github.com/Mobcik"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=3A7BD5&center=true&vCenter=true&width=640&lines=Selçuk+Üniversitesi+Bilgisayar+Mühendisliği;AYZEK+Başkanı;Bilgisayarlı+görü+%7C+LLM+%7C+Full+stack" alt="Yazan metin" /></a>
+<div align="center">
+  <a href="https://www.linkedin.com/in/s%C3%BCleyman-y%C4%B1ld%C4%B1z-72b85b320/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <img src="https://img.shields.io/badge/Konya-T%C3%BCrkiye-1F3A5F?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Konya, Türkiye"/>
+  <img src="https://img.shields.io/badge/AYZEK-Ba%C5%9Fkan-3A7BD5?style=for-the-badge" alt="AYZEK Başkanı"/>
+</div>
 
 <br/>
 
-<a href="https://www.linkedin.com/in/s%C3%BCleyman-y%C4%B1ld%C4%B1z-72b85b320/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<img src="https://img.shields.io/badge/Konya-T%C3%BCrkiye-1F3A5F?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Konya, Türkiye" />
+## Merhaba, ben Süleyman 👋
 
-</div>
+Selçuk Üniversitesi Bilgisayar Mühendisliği 3. sınıf öğrencisiyim. Gün içinde bir eğitim yönetim platformunun hem frontend'ini hem backend'ini yazıyorum, geri kalan zamanımda da yapay zekâyı bilgisayarlı görü ve büyük dil modelleriyle gerçek problemlere uygulamaya çalışıyorum. Yarışma projelerinin çoğunu takım kaptanı ya da yapay zekâ sorumlusu olarak yürüttüm.
 
----
-
-## 👨‍💻 Hakkımda
-
-Selçuk Üniversitesi Bilgisayar Mühendisliği 3. sınıf öğrencisiyim. **Full stack geliştirme**, **bilgisayarlı görü** ve **büyük dil modelleri (LLM)** üzerine çalışıyorum. Selçuk Algoritma ve Yapay Zekâ Topluluğu (**AYZEK**) başkanıyım.
-
-- 🏢 **Okulbox Bilişim Teknolojileri**'nde multi-tenant eğitim yönetim SaaS'ı Vuulpi'nin frontend ve backend tarafında çalışıyorum (React/TypeScript + FastAPI)
-- 👁️ Bilgisayarlı görü (YOLOv8) ve LLM/MCP entegrasyonları geliştiriyorum
-- 🎓 AYZEK'te eğitimler, atölyeler ve yarışma takımlarının koordinasyonuyla ilgileniyorum
+- 🥉 **AI-Deathon 2026**'da **3.** oldum, takım kaptanıydım (StajPusula)
+- 🏁 **Teknofest 2026 Savaşan İHA – Avcı Drone** finalinde 16 takım arasında **2. sırada** yer aldık, görüntü işleme ve kalibrasyon tarafındaydım
+- 🚀 Teknofest'te 2025 ve 2026'da **5 farklı projeyle** yarı final ve final aşamasına katıldım
+- 💼 **Okulbox**'ta multi-tenant eğitim SaaS'ı **Vuulpi**'yi geliştiriyorum (React/TypeScript + FastAPI)
+- 🔬 **Bomensoft**'ta Ar-Ge stajında şantiye görüntülerinde koruyucu donanım tespit eden bir YOLOv8 modeli geliştirdim (mAP@50: 0,903)
+- 🎓 **AYZEK** (Selçuk Algoritma ve Yapay Zekâ Topluluğu) başkanıyım
+- 📖 Afet sonrası hasar tespiti ve rota belirleme üzerine bir **kitap bölümünün** birinci yazarıyım (Eğitim Yayınevi, 2025)
 
 ---
 
 ## 🏆 Yarışmalar
 
-| Yıl | Yarışma | Sonuç |
-|:---:|---|---|
-| 2026 | **AI-Deathon** (ICAAD 2026, Selçuk Üniversitesi) | 🥉 **3.** · Takım Kaptanı (StajPusula) |
-| 2026 | **Teknofest** Savaşan İHA – Avcı Drone | 🏁 Finalist · finalde 16 takım arasında 2. sırada yer aldık |
-| 2026 | **Teknofest** Finansal Teknolojiler | Yarı Finalist · Takım Kaptanı (DCO) |
-| 2026 | **Teknofest** Lojistik Anahat Optimizasyonu | Yarı Finalist · Takım Kaptanı |
-| 2026 | **TEKNO-SEL** Teknoloji ve Robot Yarışması | Özel Kategori Finalist (AIDEP) |
-| 2025 | **Teknofest** İnsanlık Yararına Teknolojiler | Yarı Finalist · Takım Kaptanı (AIDEP) |
+<div align="center">
+
+| | Yarışma | Proje | Sonuç |
+|:---:|:---|:---|:---:|
+| 🥉 | **AI-Deathon 2026** (ICAAD, Selçuk Üniversitesi) | StajPusula | **3.** · Takım Kaptanı |
+| 🏁 | **Teknofest 2026** Savaşan İHA – Avcı Drone | Hedef tespit ve kilitlenme | **Finalist** · 16 takım arasında 2. sırada |
+| 🎯 | **Teknofest 2026** Finansal Teknolojiler | DCO | Yarı Finalist · Takım Kaptanı |
+| 🎯 | **Teknofest 2026** Lojistik Anahat Optimizasyonu | AYZEK 3.2 | Yarı Finalist · Takım Kaptanı |
+| 🎯 | **Teknofest 2026** 5G ve Yapay Zekâ ile Akıllı Yol Güvenliği | — | Yarı Finalist |
+| 🏅 | **TEKNO-SEL 2026** Teknoloji ve Robot Yarışması | AIDEP | Özel Kategori Finalist |
+| 🎯 | **Teknofest 2025** İnsanlık Yararına Teknolojiler | AIDEP | Yarı Finalist · Takım Kaptanı |
+| 🏅 | **Boost the Idea 2025** (Konya Teknokent) | AIDEP | 20 proje arasında **6.** |
+
+</div>
 
 ---
 
-## 🚀 Öne Çıkan Çalışmalar
+## 🚀 Neler Yaptım
 
 <table>
 <tr>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
 ### 🧭 StajPusula
-Öğrencinin günlük anlatımını yapay zekâ ile staj defterine dönüştüren, sorunlu stajları **staj bitmeden** fark eden ve son kararı insana bırakan staj takip sistemi.
+`🥉 AI-Deathon 2026 · 3. · Takım Kaptanı`
 
-`AI-Deathon 2026 · 3.`
+Öğrencinin her gün kısaca anlattığı staj deneyimini yapay zekâ ile düzenli bir staj defterine dönüştüren, sorunlu stajları **staj bitmeden** fark eden bir sistem. Yapay zekâ düzenler, işaretler ve gerekçe gösterir. Kararı her zaman öğrenci, işyeri amiri ve staj komisyonu verir.
 
-</td>
-<td width="33%" valign="top">
-
-### 🌍 AIDEP
-Deprem sonrası hasar tespiti yapıp güvenli rota planlayan afet koordinasyon platformu. Bina ve yol hasarını **11 sınıfta** tespit eden YOLOv8 modelini geliştirdim.
-
-`Python · YOLOv8 · FastAPI · PostGIS`
+`LLM` `Ses tanıma` `Embedding` `React`
 
 </td>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
-### 🌱 DCO
-Yazılımın karbon ayak izini **fonksiyon bazında** ölçen ESG skorlama platformu. Anomali tespiti ve MCP ile LLM destekli optimizasyon önerilerini geliştirdim.
+### 🌍 AIDEP — Afet Koordinasyon Platformu
+`🎯 Teknofest 2025 Yarı Finalist · TEKNO-SEL 2026 Finalist`
 
-`Python · scikit-learn · FastAPI · React · MCP`
+Depremden sonraki ilk 72 saatte kurtarma ekiplerinin enkaza güvenli ulaşmasını hedefleyen platform. Vatandaşın paylaştığı fotoğraflar yapay zekâ ile analiz edilip canlı hasar haritasına dönüşüyor. **Benim payım:** bina ve yol hasarını 11 sınıfta tespit eden YOLOv8 modeli, veri toplamadan eğitime kadar.
+
+`Python` `YOLOv8` `FastAPI` `PostGIS` `OSRM`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🌱 DCO — Dijital Karbon Ölçümü
+`🎯 Teknofest 2026 Finansal Teknolojiler · Takım Kaptanı`
+
+Bulut faturası yalnızca toplam tüketimi gösteriyor, hangi kodun ne kadar karbon ürettiği görünmüyor. DCO bunu **fonksiyon bazında** ölçüyor ve sonuçları finans kurumları için doğrulanabilir bir ESG skoruna çeviriyor. **Benim payım:** Isolation Forest ile anomali tespiti, maliyet tahmini ve MCP üzerinden LLM destekli optimizasyon önerileri.
+
+`Python` `scikit-learn` `FastAPI` `React` `MCP`
+
+</td>
+<td width="50%" valign="top">
+
+### 🚁 Savaşan İHA — Hedef Tespit ve Kilitlenme
+`🏁 Teknofest 2026 Avcı Drone · Finalist`
+
+Avcı İHA'nın kamerasından gelen görüntüde rakip İHA'yı gerçek zamanlı tespit edip kilitlenme ve güdüm aşamalarına aktaran modül. **Benim payım:** YOLOv8n ile küçük ve uzak hedefler için model eğitimi, yanlış kilitlenmeyi azaltma, kalibrasyonlar ve uçuş yazılımının otonomi dışındaki kısmı.
+
+`Python` `YOLOv8n` `OpenCV`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📦 AYZEK 3.2 — Lojistik Anahat Optimizasyonu
+`🎯 Teknofest 2026 · Takım Kaptanı`
+
+Kargo talebini tahmin edip aktarma merkezleri arasındaki araç ve sefer planını en düşük maliyetle çıkaran sistem (Hepsiburada & HepsiJET verisi). **Benim payım:** LightGBM talep tahmin modeli ve planlama motoru. Araç seçimini iyileştirerek plan maliyetini yaklaşık **1,7 milyon TL** düşürdüm.
+
+`Python` `LightGBM` `CP-SAT`
+
+</td>
+<td width="50%" valign="top">
+
+### 🤝 GönüllüAI
+`Kişisel proje`
+
+React + FastAPI + Gemini ile yapay zekâ destekli gönüllülük platformu. Canlı: [gonulluai.vercel.app](https://gonulluai.vercel.app)
+
+`React` `TypeScript` `FastAPI` `Gemini`
 
 </td>
 </tr>
 </table>
 
-> 🔒 Bu projelerin kod depoları hazırlanıyor, hazır oldukça buraya eklenecek.
+> 🔒 Yarışma projelerinin kod depoları hazırlanıyor, hazır oldukça buraya bağlantılarıyla eklenecek.
 
 ---
 
@@ -75,16 +124,55 @@ Yazılımın karbon ayak izini **fonksiyon bazında** ölçen ESG skorlama platf
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=py,ts,js,c,react,nextjs,fastapi,nodejs,postgres,mongodb,redis,pytorch,tensorflow,opencv,docker,aws,git,github&perline=9" alt="Teknolojiler" />
+**Diller**
+
+<img src="https://skillicons.dev/icons?i=py,ts,js,c"/>
+
+**Web ve Backend**
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,fastapi"/>
+
+**Yapay Zekâ ve Bilgisayarlı Görü**
+
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv"/>
+&nbsp;
+<img src="https://img.shields.io/badge/YOLOv8-00BFFF?style=flat-square&logoColor=white" height="47"/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" height="47"/>
+<img src="https://img.shields.io/badge/LightGBM-02A84F?style=flat-square&logoColor=white" height="47"/>
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" height="47"/>
+<img src="https://img.shields.io/badge/LLM%20%26%20MCP-1F3A5F?style=flat-square&logoColor=white" height="47"/>
+
+**Veritabanı ve Altyapı**
+
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,sqlite,docker,aws,git,github"/>
 
 </div>
 
-**Yapay zekâ:** PyTorch · TensorFlow · scikit-learn · LightGBM · YOLO / Ultralytics · OpenCV · Hugging Face · LLM & MCP
-
 ---
+
+## 💼 Deneyim
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3A7BD5,100:1F3A5F&height=100&section=footer" alt="" width="100%" />
+| | Kurum | Görev | Dönem |
+|:---:|:---|:---|:---:|
+| 🦊 | **Okulbox Bilişim Teknolojileri** — Vuulpi | Full Stack Developer | Temmuz 2025 – devam ediyor |
+| 👁️ | **Bomensoft Yazılım A.Ş.** | Ar-Ge Stajyeri (Yapay Zekâ / Bilgisayarlı Görü) | Temmuz – Ağustos 2026 |
 
+</div>
+
+---
+
+## 🤝 Topluluk
+
+<div align="center">
+  <img src="https://img.shields.io/badge/AYZEK-Ba%C5%9Fkan%20(2026%20%E2%80%93)-4A90D9?style=for-the-badge" alt="AYZEK Başkanı"/>
+  <img src="https://img.shields.io/badge/AYZEK-Ba%C5%9Fkan%20Yard%C4%B1mc%C4%B1s%C4%B1%20(2025%20%E2%80%93%202026)-5B6C8F?style=for-the-badge" alt="AYZEK Başkan Yardımcısı"/>
+  <img src="https://img.shields.io/badge/AYZEK-Y%C3%B6netim%20Kurulu%20(2024%20%E2%80%93%202025)-5B6C8F?style=for-the-badge" alt="AYZEK Yönetim Kurulu"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3A7BD5,100:1F3A5F&height=100&section=footer" alt=""/>
 </div>
