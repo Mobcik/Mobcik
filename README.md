@@ -29,18 +29,7 @@ Selçuk Üniversitesi Bilgisayar Mühendisliği 3. sınıf öğrencisiyim. Gün 
 ## 🏆 Yarışmalar
 
 <div align="center">
-
-| | Yarışma | Proje | Sonuç |
-|:---:|:---|:---|:---:|
-| 🥉 | **AI-Deathon 2026** (ICAAD, Selçuk Üniversitesi) | StajPusula | **3.** · Takım Kaptanı |
-| 🏁 | **Teknofest 2026** Savaşan İHA – Avcı Drone | Hedef tespit ve kilitlenme | **Finalist** · 16 takım arasında 2. sırada |
-| 🎯 | **Teknofest 2026** Finansal Teknolojiler | DCO | Yarı Finalist · Takım Kaptanı |
-| 🎯 | **Teknofest 2026** Lojistik Anahat Optimizasyonu | AYZEK 3.2 | Yarı Finalist · Takım Kaptanı |
-| 🎯 | **Teknofest 2026** 5G ve Yapay Zekâ ile Akıllı Yol Güvenliği | — | Yarı Finalist |
-| 🏅 | **TEKNO-SEL 2026** Teknoloji ve Robot Yarışması | AIDEP | Özel Kategori Finalist |
-| 🎯 | **Teknofest 2025** İnsanlık Yararına Teknolojiler | AIDEP | Yarı Finalist · Takım Kaptanı |
-| 🏅 | **Boost the Idea 2025** (Konya Teknokent) | AIDEP | 20 proje arasında **6.** |
-
+  <img src="https://raw.githubusercontent.com/Mobcik/Mobcik/main/yolculuk.svg" alt="Yarışma sonuçları: 2025 ve 2026" width="100%"/>
 </div>
 
 ---
@@ -100,7 +89,7 @@ Avcı İHA'nın kamerasından gelen görüntüde rakip İHA'yı gerçek zamanlı
 
 Kargo talebini tahmin edip aktarma merkezleri arasındaki araç ve sefer planını en düşük maliyetle çıkaran sistem (Hepsiburada & HepsiJET verisi). **Benim payım:** LightGBM talep tahmin modeli ve planlama motoru. Araç seçimini iyileştirerek plan maliyetini yaklaşık **1,7 milyon TL** düşürdüm.
 
-`Python` `LightGBM` `CP-SAT`
+`Python` `LightGBM`
 
 </td>
 <td width="50%" valign="top">
@@ -119,6 +108,12 @@ React + FastAPI + Gemini ile yapay zekâ destekli gönüllülük platformu. Canl
 ---
 
 ## 🛠️ Teknolojiler
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Mobcik/Mobcik/main/teknoloji-haritasi.svg" alt="Hangi projede hangi teknolojiyi kullandığımı gösteren harita" width="100%"/>
+</div>
+
+<br/>
 
 <div align="center">
 
@@ -160,12 +155,6 @@ React + FastAPI + Gemini ile yapay zekâ destekli gönüllülük platformu. Canl
 </div>
 
 ---
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Mobcik/Mobcik/main/yolculuk.svg" alt="Yarışma yolculuğu: 2025 ve 2026 sonuçları" width="100%"/>
-</div>
-
-<br/>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3A7BD5,100:1F3A5F&height=100&section=footer" alt=""/>
