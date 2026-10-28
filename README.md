@@ -116,8 +116,6 @@ React + FastAPI + Gemini ile yapay zekâ destekli gönüllülük platformu. Canl
 </tr>
 </table>
 
-> 🔒 Yarışma projelerinin kod depoları hazırlanıyor, hazır oldukça buraya bağlantılarıyla eklenecek.
-
 ---
 
 ## 🛠️ Teknolojiler
@@ -163,12 +161,10 @@ React + FastAPI + Gemini ile yapay zekâ destekli gönüllülük platformu. Canl
 
 ---
 
-## 🤝 Topluluk
+## 📈 GitHub Aktivitem
 
 <div align="center">
-  <img src="https://img.shields.io/badge/AYZEK-Ba%C5%9Fkan%20(2026%20%E2%80%93)-4A90D9?style=for-the-badge" alt="AYZEK Başkanı"/>
-  <img src="https://img.shields.io/badge/AYZEK-Ba%C5%9Fkan%20Yard%C4%B1mc%C4%B1s%C4%B1%20(2025%20%E2%80%93%202026)-5B6C8F?style=for-the-badge" alt="AYZEK Başkan Yardımcısı"/>
-  <img src="https://img.shields.io/badge/AYZEK-Y%C3%B6netim%20Kurulu%20(2024%20%E2%80%93%202025)-5B6C8F?style=for-the-badge" alt="AYZEK Yönetim Kurulu"/>
+  <img src="https://streak-stats.demolab.com/?user=Mobcik&locale=tr&hide_border=true&background=00000000&ring=3A7BD5&fire=3A7BD5&currStreakNum=3A7BD5&sideNums=3A7BD5&currStreakLabel=3A7BD5&sideLabels=8FA3BF&dates=8FA3BF&date_format=j%20M%5B%20Y%5D" alt="GitHub katkı istatistikleri"/>
 </div>
 
 <br/>
