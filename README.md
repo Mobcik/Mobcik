@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F3A5F,100:3A7BD5&height=200&section=header&text=Süleyman%20Yıldız&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack,%20Bilgisayarlı%20Görü%20ve%20LLM&descSize=16&descAlignY=58&descColor=dbe7ff" alt="Süleyman Yıldız"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F3A5F,100:3A7BD5&height=200&section=header&text=Süleyman%20Yıldız&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack,%20Computer%20Vision%20and%20LLMs&descSize=16&descAlignY=58&descColor=dbe7ff" alt="Süleyman Yıldız"/>
 </div>
 
 <div align="center">
@@ -7,53 +7,57 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <img src="https://img.shields.io/badge/Konya-T%C3%BCrkiye-1F3A5F?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Konya, Türkiye"/>
-  <img src="https://img.shields.io/badge/AYZEK-Ba%C5%9Fkan-3A7BD5?style=for-the-badge" alt="AYZEK Başkanı"/>
+  <img src="https://img.shields.io/badge/AYZEK-President-3A7BD5?style=for-the-badge" alt="AYZEK President"/>
+</div>
+
+<div align="center">
+  <sub>🇬🇧 English &nbsp;·&nbsp; <a href="https://github.com/Mobcik/Mobcik/blob/main/README.tr.md">🇹🇷 Türkçe</a></sub>
 </div>
 
 <br/>
 
-## Merhaba, ben Süleyman 👋
+## Hi, I'm Süleyman 👋
 
-Selçuk Üniversitesi Bilgisayar Mühendisliği 3. sınıf öğrencisiyim. Gün içinde bir eğitim yönetim platformunun hem frontend'ini hem backend'ini yazıyorum, geri kalan zamanımda da yapay zekâyı bilgisayarlı görü ve büyük dil modelleriyle gerçek problemlere uygulamaya çalışıyorum. Yarışma projelerinin çoğunu takım kaptanı ya da yapay zekâ sorumlusu olarak yürüttüm.
+I'm a third-year Computer Engineering student at Selçuk University. By day I work on both the frontend and the backend of an education management platform; the rest of my time goes into applying computer vision and large language models to real problems. In most of my competition projects I served as team captain or AI lead.
 
-- 🥉 **AI-Deathon 2026**'da **3.** oldum, takım kaptanıydım (StajPusula)
-- 🏁 **Teknofest 2026 Savaşan İHA – Avcı Drone** finalinde 16 takım arasında **2. sırada** yer aldık, görüntü işleme ve kalibrasyon tarafındaydım
-- 🚀 Teknofest'te 2025 ve 2026'da **5 farklı projeyle** yarı final ve final aşamasına katıldım
-- 💼 **Okulbox**'ta multi-tenant eğitim SaaS'ı **Vuulpi**'yi geliştiriyorum (React/TypeScript + FastAPI)
-- 🔬 **Bomensoft**'ta Ar-Ge stajında şantiye görüntülerinde koruyucu donanım tespit eden bir YOLOv8 modeli geliştirdim (mAP@50: 0,903)
-- 🎓 **AYZEK** (Selçuk Algoritma ve Yapay Zekâ Topluluğu) başkanıyım
-- 📖 Afet sonrası hasar tespiti ve rota belirleme üzerine bir **kitap bölümünün** birinci yazarıyım (Eğitim Yayınevi, 2025)
+- 🥉 **3rd place at AI-Deathon 2026**, as team captain (StajPusula)
+- 🏁 **Teknofest 2026 Fighter UAV Hunter Drone Competition:** finalist, 2nd of 16 teams in the final standings. I was responsible for image processing and calibration
+- 🚀 **Five different projects** reached the semi-final or final stage at Teknofest across 2025 and 2026
+- 💼 At **Okulbox**, I build **Vuulpi**, a multi-tenant education SaaS (React/TypeScript + FastAPI)
+- 🔬 During my R&D internship at **Bomensoft**, I developed a YOLOv8 model that detects missing protective equipment on construction sites (mAP@50: 0.903)
+- 🎓 President of **AYZEK**, the Algorithms and Artificial Intelligence Community at Selçuk University
+- 📖 First author of a [**book chapter**](https://www.egitimyayinevi.com/savunma-guvenlik-ve-afet-yonetiminde-yapay-zeka-tabanli-uygulamalar) on post-disaster damage detection and safe routing (Eğitim Yayınevi, 2025)
 
 ---
 
-## 🏆 Yarışmalar
+## 🏆 Competitions
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Mobcik/Mobcik/main/yolculuk.svg" alt="Yarışma sonuçları: 2025 ve 2026" width="100%"/>
+  <img src="https://raw.githubusercontent.com/Mobcik/Mobcik/main/competitions.svg" alt="Competition results for 2025 and 2026" width="100%"/>
 </div>
 
 ---
 
-## 🚀 Neler Yaptım
+## 🚀 What I've Built
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
 ### 🧭 StajPusula
-`🥉 AI-Deathon 2026 · 3. · Takım Kaptanı`
+`🥉 AI-Deathon 2026 · 3rd place · Team Captain`
 
-Öğrencinin her gün kısaca anlattığı staj deneyimini yapay zekâ ile düzenli bir staj defterine dönüştüren, sorunlu stajları **staj bitmeden** fark eden bir sistem. Yapay zekâ düzenler, işaretler ve gerekçe gösterir. Kararı her zaman öğrenci, işyeri amiri ve staj komisyonu verir.
+Internship logbooks are usually written in one go on the last night, and a bad internship is only noticed once it is over. StajPusula is the system we designed to fix both. The student's daily account becomes a clean logbook entry with AI assistance, and weekly follow-up flags problematic internships **while they are still running**. The AI only organizes and flags; the decision always stays with the student, the workplace supervisor and the internship committee. As team captain, I led the team's work.
 
-`LLM` `Ses tanıma` `Embedding` `React`
+`React` `TypeScript`
 
 </td>
 <td width="50%" valign="top">
 
-### 🌍 AIDEP — Afet Koordinasyon Platformu
-`🎯 Teknofest 2025 Yarı Finalist · TEKNO-SEL 2026 Finalist`
+### 🌍 AIDEP: Disaster Coordination Platform
+`🎯 Teknofest 2025 Semi-finalist · TEKNO-SEL 2026 Finalist`
 
-Depremden sonraki ilk 72 saatte kurtarma ekiplerinin enkaza güvenli ulaşmasını hedefleyen platform. Vatandaşın paylaştığı fotoğraflar yapay zekâ ile analiz edilip canlı hasar haritasına dönüşüyor. **Benim payım:** bina ve yol hasarını 11 sınıfta tespit eden YOLOv8 modeli, veri toplamadan eğitime kadar.
+After the February 6 earthquakes, closed roads were only discovered once rescue teams were already in the field. Our team built AIDEP to address that: photos shared by citizens are analyzed with AI and turned into a live damage map, and rescue teams are routed around closed roads. I led the AI side, building the YOLOv8 model that detects building and road damage across 11 classes, from data collection to training. The routing system was a joint effort of the team.
 
 `Python` `YOLOv8` `FastAPI` `PostGIS` `OSRM`
 
@@ -62,20 +66,20 @@ Depremden sonraki ilk 72 saatte kurtarma ekiplerinin enkaza güvenli ulaşmasın
 <tr>
 <td width="50%" valign="top">
 
-### 🌱 DCO — Dijital Karbon Ölçümü
-`🎯 Teknofest 2026 Finansal Teknolojiler · Takım Kaptanı`
+### 🌱 DCO: Digital Carbon Measurement
+`🎯 Teknofest 2026 Financial Technologies · Team Captain`
 
-Bulut faturası yalnızca toplam tüketimi gösteriyor, hangi kodun ne kadar karbon ürettiği görünmüyor. DCO bunu **fonksiyon bazında** ölçüyor ve sonuçları finans kurumları için doğrulanabilir bir ESG skoruna çeviriyor. **Benim payım:** Isolation Forest ile anomali tespiti, maliyet tahmini ve MCP üzerinden LLM destekli optimizasyon önerileri.
+A cloud bill shows total consumption, but not which code produces how much carbon. DCO, which our team built, measures this **per function**, identifies inefficient code and turns the results into an ESG score that financial institutions can verify. As team captain, I wrote the AI side: an Isolation Forest model that catches abnormal consumption, a monthly cost forecast, and a recommendation module that connects an LLM to carbon metrics through MCP.
 
 `Python` `scikit-learn` `FastAPI` `React` `MCP`
 
 </td>
 <td width="50%" valign="top">
 
-### 🚁 Savaşan İHA — Hedef Tespit ve Kilitlenme
-`🏁 Teknofest 2026 Avcı Drone · Finalist`
+### 🚁 Fighter UAV: Target Detection and Lock-on
+`🏁 Teknofest 2026 Hunter Drone · Finalist`
 
-Avcı İHA'nın kamerasından gelen görüntüde rakip İHA'yı gerçek zamanlı tespit edip kilitlenme ve güdüm aşamalarına aktaran modül. **Benim payım:** YOLOv8n ile küçük ve uzak hedefler için model eğitimi, yanlış kilitlenmeyi azaltma, kalibrasyonlar ve uçuş yazılımının otonomi dışındaki kısmı.
+An image processing module that detects the opposing UAV in real time from the hunter UAV's camera feed and hands it over to the lock-on and guidance stages. On the team, I was responsible for image processing and calibration: I trained YOLOv8n on a dataset built from our own flight footage to pick up small, distant targets, and worked on reducing false lock-ons. A teammate and I also set up the flight software outside of the autonomy stack.
 
 `Python` `YOLOv8n` `OpenCV`
 
@@ -84,10 +88,10 @@ Avcı İHA'nın kamerasından gelen görüntüde rakip İHA'yı gerçek zamanlı
 <tr>
 <td width="50%" valign="top">
 
-### 📦 AYZEK 3.2 — Lojistik Anahat Optimizasyonu
-`🎯 Teknofest 2026 · Takım Kaptanı`
+### 📦 AYZEK 3.2: Linehaul Optimisation
+`🎯 Teknofest 2026 · Team Captain`
 
-Kargo talebini tahmin edip aktarma merkezleri arasındaki araç ve sefer planını en düşük maliyetle çıkaran sistem (Hepsiburada & HepsiJET verisi). **Benim payım:** LightGBM talep tahmin modeli ve planlama motoru. Araç seçimini iyileştirerek plan maliyetini yaklaşık **1,7 milyon TL** düşürdüm.
+A system that forecasts cargo demand from Hepsiburada and HepsiJET data and plans vehicles and trips between transfer centers at the lowest cost (18 transfer centers, 289 lines, 66,024 demand records). I was team captain and developed the LightGBM demand forecast and the planning engine. An improvement in vehicle selection cut the plan cost by about **1.7 million TL**.
 
 `Python` `LightGBM`
 
@@ -95,9 +99,9 @@ Kargo talebini tahmin edip aktarma merkezleri arasındaki araç ve sefer planın
 <td width="50%" valign="top">
 
 ### 🤝 GönüllüAI
-`Kişisel proje`
+`Personal project`
 
-React + FastAPI + Gemini ile yapay zekâ destekli gönüllülük platformu. Canlı: [gonulluai.vercel.app](https://gonulluai.vercel.app)
+An AI-powered volunteering platform that I built on my own with React, FastAPI and Gemini. Live at [gonulluai.vercel.app](https://gonulluai.vercel.app).
 
 `React` `TypeScript` `FastAPI` `Gemini`
 
@@ -107,25 +111,25 @@ React + FastAPI + Gemini ile yapay zekâ destekli gönüllülük platformu. Canl
 
 ---
 
-## 🛠️ Teknolojiler
+## 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Mobcik/Mobcik/main/teknoloji-haritasi.svg" alt="Hangi projede hangi teknolojiyi kullandığımı gösteren harita" width="100%"/>
+  <img src="https://raw.githubusercontent.com/Mobcik/Mobcik/main/tech-map.svg" alt="Map of which technologies I used in which project" width="100%"/>
 </div>
 
 <br/>
 
 <div align="center">
 
-**Diller**
+**Languages**
 
 <img src="https://skillicons.dev/icons?i=py,ts,js,c"/>
 
-**Web ve Backend**
+**Web and Backend**
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,fastapi"/>
 
-**Yapay Zekâ ve Bilgisayarlı Görü**
+**AI and Computer Vision**
 
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv"/>
 &nbsp;
@@ -135,7 +139,7 @@ React + FastAPI + Gemini ile yapay zekâ destekli gönüllülük platformu. Canl
 <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" height="47"/>
 <img src="https://img.shields.io/badge/LLM%20%26%20MCP-1F3A5F?style=flat-square&logoColor=white" height="47"/>
 
-**Veritabanı ve Altyapı**
+**Databases and Infrastructure**
 
 <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,sqlite,docker,aws,git,github"/>
 
@@ -143,14 +147,14 @@ React + FastAPI + Gemini ile yapay zekâ destekli gönüllülük platformu. Canl
 
 ---
 
-## 💼 Deneyim
+## 💼 Experience
 
 <div align="center">
 
-| | Kurum | Görev | Dönem |
+| | Company | Role | Period |
 |:---:|:---|:---|:---:|
-| 🦊 | **Okulbox Bilişim Teknolojileri** — Vuulpi | Full Stack Developer | Temmuz 2025 – devam ediyor |
-| 👁️ | **Bomensoft Yazılım A.Ş.** | Ar-Ge Stajyeri (Yapay Zekâ / Bilgisayarlı Görü) | Temmuz – Ağustos 2026 |
+| 🦊 | **Okulbox Information Technologies**: Vuulpi | Full Stack Developer | Jul 2025 – present |
+| 👁️ | **Bomensoft Software Inc.** | R&D Intern (AI / Computer Vision) | Jul – Aug 2026 |
 
 </div>
 
