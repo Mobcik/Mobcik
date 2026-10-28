@@ -161,10 +161,8 @@ React + FastAPI + Gemini ile yapay zekâ destekli gönüllülük platformu. Canl
 
 ---
 
-## 📈 GitHub Aktivitem
-
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Mobcik&locale=tr&hide_border=true&background=00000000&ring=3A7BD5&fire=3A7BD5&currStreakNum=3A7BD5&sideNums=3A7BD5&currStreakLabel=3A7BD5&sideLabels=8FA3BF&dates=8FA3BF&date_format=j%20M%5B%20Y%5D" alt="GitHub katkı istatistikleri"/>
+  <img src="https://raw.githubusercontent.com/Mobcik/Mobcik/main/yolculuk.svg" alt="Yarışma yolculuğu: 2025 ve 2026 sonuçları" width="100%"/>
 </div>
 
 <br/>
